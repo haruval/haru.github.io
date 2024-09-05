@@ -1,16 +1,23 @@
 h1 {
     
-    text-align: center;
+    text-align: left;
     font-family: Helvetica, sans-serif;
     font-size: 80px;
+    align-self: flex-start;
+    margin-left: 20px;
+    padding: 200px 100px 20px;
     color: white;
 }
 
+
+
 h2 {
 
-    text-align: center;
+    text-align: left;
     font-family: Helvetica, sans-serif;
     color: white;
+    margin-left: 20px;
+    padding: 1px 100px 20px;
 }
 
 
@@ -36,5 +43,6 @@ a {
     color: rgb(70, 157, 227);
 }
 
+/*373A40*/
 body {background-color: #373A40;}
 
